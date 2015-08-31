@@ -5,4 +5,4 @@ Command line time parser to convert from/to different date formats and timezones
 echo "1997-07-16" | tt -from "2006-01-02" -to "Mon, Jan 1, 2006" && echo
 
 # Reference Time
-See[https://golang.org/src/time/format.go
+See https://golang.org/src/time/format.go
